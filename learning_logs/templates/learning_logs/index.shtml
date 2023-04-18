@@ -1,0 +1,9 @@
+{%extends "learning_logs/base.shtml"%}
+{%block content%}
+<h1>Learning Log</h1>
+<img src="https://nimg.ws.126.net/?url=http%3A%2F%2Fspider.ws.126.net%2Fb8b3fc553ebea6f0e44a9abf9b1f7d87.jpeg&thumbnail=660x2147483647&quality=80&type=jpg">
+
+
+<p>你干嘛,哎呦</p>
+<a href="bilibili">哔哩哔哩</a>
+{%endblock content%}
