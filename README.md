@@ -1,3 +1,3 @@
 # Learning-log
 language Python3  
-from zsh-123-zsh
+from Python Crash Course
